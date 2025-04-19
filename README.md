@@ -76,4 +76,4 @@ Frontend (Streamlit App): (https://shl-recommendation-systemm.streamlit.app/)
 
 API (Render endpoint): (https://shl-recommendation-system-7s4x.onrender.com)
 
-GitHub Repo: github.com/khushirm/shl-recommendation-system
+GitHub Repo: (https://github.com/Khushirm/shl-recommendation-system)
