@@ -14,7 +14,7 @@ if st.button("🔎 Get Recommendations"):
     else:
         with st.spinner("Getting recommendations..."):
             try:
-                response = requests.post("http://127.0.0.1:5000/recommend", json={"query": query})
+                response = requests.post("https://shl-recommendation-system-7s4x.onrender.com/recommend", json={"query": query})
                 if response.status_code == 200:
                     results = response.json().get("recommendations", [])
 
