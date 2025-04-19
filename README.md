@@ -34,12 +34,12 @@ It simplifies the hiring process by helping hiring managers quickly discover the
    - Inputs query and displays results in a clean UI
 
 ## Project Structure
-── app.py # Flask API backend
-── ui.py # Streamlit frontend 
-── shl_scraper_playwright.py # Web scraper using Playwright 
-── shl_assessments.csv # Assessment data (scraped) 
-── test_api.py # Local testing script for POST /recommend 
-── requirements.txt # Python dependencies 
+─ app.py # Flask API backend
+─ ui.py # Streamlit frontend 
+─ shl_scraper_playwright.py # Web scraper using Playwright 
+─ shl_assessments.csv # Assessment data (scraped) 
+─ test_api.py # Local testing script for POST /recommend 
+─ requirements.txt # Python dependencies 
 
 
 ---
